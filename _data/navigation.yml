@@ -8,20 +8,20 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Front Desk"
+  - title: "Επιφάνεια Εργασίας"
     url: /
-  - title: "Cartography"
+  - title: "Χαρτογραφώντας τον Χώρο"
     url: /portfolio/
     # Όλο το GIS υλικό και οι αναλύσεις με χάρτες.
-  - title: "Reading Room"
+  - title: "Αναγνωστήριο"
     url: /teaching/
     # Εδώ μπαίνουν οι "άπειρες σημειώσεις" σου από τη Φιλοσοφική και όχι μόνο.
-  - title: "Position Papers"
+  - title: "Θέσεις & Κείμενα"
     url: /publications/
     # Οι πιο δομημένες απόψεις σου για τον Μαρξισμό και την Ανάπτυξη και όχι μόνο.
-  - title: "Logbook"
+  - title: "Ημερολόγιο Πεδίου"
     url: /year-archive/
     # Η ροή του blog σου.
-  - title: "The Researcher"
+  - title: "Προφίλ"
     url: /cv/
     # Το ακαδημαϊκό σου προφίλ.
