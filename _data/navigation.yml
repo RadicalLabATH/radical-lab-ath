@@ -9,19 +9,19 @@
 
 main:
   - title: "Επιφάνεια Εργασίας"
-    url: /radical-lab-ath/
+    url: /
   - title: "Χαρτογραφώντας τον Χώρο"
-    url: /radical-lab-ath/portfolio/
+    url: /portfolio/
     # Όλο το GIS υλικό και οι αναλύσεις με χάρτες.
   - title: "Αναγνωστήριο"
-    url: /radical-lab-ath/teaching/
+    url: /teaching/
     # Εδώ μπαίνουν οι "άπειρες σημειώσεις" σου από τη Φιλοσοφική και όχι μόνο.
   - title: "Θέσεις & Κείμενα"
-    url: /radical-lab-ath/publications/
+    url: /publications/
     # Οι πιο δομημένες απόψεις σου για τον Μαρξισμό και την Ανάπτυξη και όχι μόνο.
   - title: "Ημερολόγιο Πεδίου"
-    url: /radical-lab-ath/year-archive/
+    url: /year-archive/
     # Η ροή του blog σου.
   - title: "Προφίλ"
-    url: /radical-lab-ath/cv/
+    url: /cv/
     # Το ακαδημαϊκό σου προφίλ.
