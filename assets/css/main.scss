@@ -41,3 +41,16 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Reading Room Styling */
+.page__content {
+  font-family: "Courier New", Courier, monospace; /* Γραμματοσειρά αρχείου/λογικής */
+}
+
+.archive__item {
+  background: #fdf6e3; /* Απαλό χρώμα παλιού χαρτιού */
+  padding: 20px;
+  border-left: 5px solid #d33682; /* Μια έντονη γραμμή στο πλάι */
+  margin-bottom: 20px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}

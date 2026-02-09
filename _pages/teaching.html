@@ -1,12 +1,21 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Αναγνωστήριο"
 permalink: /teaching/
 author_profile: true
+header:
+  overlay_image: /images/background.jpg # Αν έχεις background, θα δείξει υπέροχο εδώ
+  overlay_filter: 0.5
 ---
 
-{% include base_path %}
+Στο **Αναγνωστήριο** αποδελτιώνουμε τη θεωρία. Οι σημειώσεις οργανώνονται ως θραύσματα ενός ενιαίου ερευνητικού πεδίου.
 
+## 📓 Πρόσφατες Καταγραφές
+---
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  ### [{{ post.title }}]({{ base_path }}{{ post.url }})
+  **Κατηγορία:** {{ post.type }} | **Tags:** {{ post.tags | join: ", " }}
+  *{{ post.excerpt | strip_html | truncate: 160 }}*
+  
+  ---
 {% endfor %}
