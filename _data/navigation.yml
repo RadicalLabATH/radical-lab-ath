@@ -8,26 +8,20 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
+  - title: "Front Desk"
+    url: /
+  - title: "Cartography"
     url: /portfolio/
-        
-  - title: "Blog Posts"
+    # Όλο το GIS υλικό και οι αναλύσεις με χάρτες.
+  - title: "Reading Room"
+    url: /teaching/
+    # Εδώ μπαίνουν οι "άπειρες σημειώσεις" σου από τη Φιλοσοφική και όχι μόνο.
+  - title: "Position Papers"
+    url: /publications/
+    # Οι πιο δομημένες απόψεις σου για τον Μαρξισμό και την Ανάπτυξη και όχι μόνο.
+  - title: "Logbook"
     url: /year-archive/
-    
-  - title: "CV"
+    # Η ροή του blog σου.
+  - title: "The Researcher"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+    # Το ακαδημαϊκό σου προφίλ.
